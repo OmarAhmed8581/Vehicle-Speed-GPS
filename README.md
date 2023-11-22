@@ -1,25 +1,5 @@
 # Vehicle Speed GPS
 
-speeder sounds for my EV bike.
-
-It should use the accelerometer/GPS of the phone to check gather speed/acceleration data and be able to connect to a bluetooth speaker to play all this louder.
-
-In the file I send, there are 
-
--all the sounds that you need
-
--a description for each + examples of similar projects but more complex
-
-
-
-About the app. It should have a start button to start the sound simulation, and a stop button. It should play the different sounds smoothly to simulate a star was speeder based on acceleration and speed.
-
-
-
-Let's have a call if you want more details.
-
-**Files description**
-
 1-Boot: When you start your vehicule / press the button start on the app. Also when you decelerate
 Play 0 - 11 seconds then a loop of 5- to 10 seconds to have a smooth and steady engin simulation
 Play 12 - 19 seconds when decelerating
