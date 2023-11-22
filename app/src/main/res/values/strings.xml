@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Meleor</string>
+    <string name="vehicle_speed_gps">Vehicle Speed GPS</string>
+</resources>
