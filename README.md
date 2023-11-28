@@ -23,7 +23,8 @@ Play the whole file on top
 7-Speed sound: this is a sound to show speed play it every time the vehicule reaches 80km/h
 
 
-![image](https://github.com/OmarAhmed8581/Meleor/assets/53855546/b89ebcd5-ee10-4b74-a5ed-17a9f499f4a7)
+![284816428-b89ebcd5-ee10-4b74-a5ed-17a9f499f4a7-portrait](https://github.com/OmarAhmed8581/Vehicle-Speed-GPS/assets/53855546/cc7f3ef6-99bf-4224-a609-5d7a7dd1cdf5)
+
 
 
 
